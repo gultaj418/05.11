@@ -1,0 +1,11 @@
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\bin\Debug\netcoreapp2.2\cw05.deps.json
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\bin\Debug\netcoreapp2.2\cw05.runtimeconfig.json
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\bin\Debug\netcoreapp2.2\cw05.runtimeconfig.dev.json
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\bin\Debug\netcoreapp2.2\cw05.dll
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\bin\Debug\netcoreapp2.2\cw05.pdb
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.csprojAssemblyReference.cache
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.csproj.CoreCompileInputs.cache
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.AssemblyInfoInputs.cache
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.AssemblyInfo.cs
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.dll
+C:\Users\gultacat\Desktop\05.11\cw05\cw05\obj\Debug\netcoreapp2.2\cw05.pdb
